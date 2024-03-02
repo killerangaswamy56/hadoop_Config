@@ -1,0 +1,5 @@
+hadoop download link.....https://hadoop.apache.org/releases.html
+
+java8 Download link.......https://www.oracle.com/java/technologies/downloads/#java8-windows
+
+steps for installation vedio.....https://www.youtube.com/watch?v=g7Qpnmi0Q-s&t=2s&ab_channel=edureka%21
